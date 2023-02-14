@@ -1,0 +1,180 @@
+Staffing: 
+Nature and importance of staffing, Process of Selection & Recruitment, Training Methods.
+
+Directing:
+Meaning and nature of directing, Leadership styles, Motivation Theories, Communication-Meaning and importance.
+
+Controlling:
+Meaning and steps in controlling, Essentials of a sound control system, Methods of establishing control.
+
+===============================
+
+Staffing
+- Filling, and keeping filled, positions in the organization structure. 
+- Staffing is concerned with ensuring that the organization has the right number of people and the right kind of people at the right places, at the right time and that they are doing the right things.
+
+
+Importance of Staffing
+1. Helps in discovering and obtaining competent personnel for various jobs.
+2. Makes for higher performances, by putting right person on the right job.
+3. Ensures the continuous survival and growth of the enterprise through the succession planning for managers.
+4. Improves job satisfaction and morale of employees through objective assessment and fair reward for their contribution.
+5. Its purpose is to enable every human being working in the organization to make best possible contribution.
+
+
+Sources of Selection
+The source of selection may be 
+a) Internal Source: It is done by either promotion or transfer within the org. 	
+b) External Source: It is done by recruitment outside the org.
+
+Selection 
+People are selected according to specification and qualification set earlier.
+
+
+Recruitment
+- It means identifying the sources of required personnel and inducing people to apply for jobs in the organization.
+- It is the process of searching for prospective employees and stimulating them to apply for jobs in the organization.
+
+
+Selection
+Selection  is the process of choosing and appointing the right candidates for various job positions in the organization. In other words, it is the process of choosing from among the pool of the prospective job candidates developed at the stage of recruitment. 
+
+Techniques of Selection
+1. Application Bank:
+Filling application by candidate in detail like personal details, qualification, specialization, experience etc.
+The applications are carefully scrutinized by company & then called for interview.
+2. Preliminary or initial Interview:
+It is most important means of evaluating the candidate. It used to obtain the basic information about candidate.
+3. Interview:
+Most reliable & valid selection techniques that decides about accepting or rejecting a candidate. There are two types of interview i.e.
+	a. Structured/ Directive Pattern: 
+	In this a list of questions based on job specification is prepared in advanced. The candidate is supposed to answer the asked questions only.
+	b. Unstructured/ Non-directive Pattern:
+	Instead of many questions to answer, the interviewer creates a permissive atmosphere in which candidate talks usually about the experiences, aspirations, fear, weakness etc. this type of interview requires high degree of interviewing skills, so it is usually done by trained interviewer.
+4. Group Discussion:
+In this the candidates are grouped together in a group of 6-8 people for informal discussion and the selectors observe them & evaluate.
+Two types of GD namely 
+	a. One where the problem is given to a group.
+	b. Each individual is given an initial position and supplied with supporting information to defend his position.
+5. Employment Tests:
+Important to check the nature & abilities of candidate. Some of the different type of tests are:
+	i. Aptitude Test
+	ii. Interest Test 
+	iii. Intelligence Test
+	iv. Trade or performance/ Achievement Test
+	v. Personality Test.
+6. Checking Reference:
+Checking the details given by the candidates.
+7. Physical Test/ Medical Examination 
+8. Final Interview.
+
+
+=============================
+
+DIRECTING
+Directing is telling people what to do & seeing that they do it to the best of their ability
+	- Ernest Dole
+
+Principles of Direction
+1. Harmony of Objectives:
+For org to function well, the goals of company & goals of individuals are in complete harmony.
+2. Unit direction of Command:
+An employee should receive orders & instructions only from one supervisor.
+3. Efficiency:
+Supervisor consulting subordinates in decision making improves sense of commitment, thus making direction easy and efficient.
+4. Direct Supervision:
+Manager should have face-to-face contact with the subordinates.
+5. Effective Communication:
+Supervisor must have good communication skills so that plans, goals, policies, responsibilities & the duties are communicated properly.
+6. Effective Control:
+The management should monitor the behavior and performance of subordinates to exercise effective control over subordinates.
+7. Follow Through:
+Having given the directions may not ensure carrying out them. Hence manager should follow through the performances of the subordinates. Follow up is very important function of direction.
+
+=================================
+
+Motivation
+Motivation is the willingness of a person to exert high levels of effort to satisfy some individual need or want.
+
+
+McGregor’s Theory X and Y
+Two sets of assumptions about the nature of people. These two sets of assumptions obviously are fundamentally different.
+- Theory X is pessimistic, static, and rigid. Control is primarily external, imposed on the subordinate by the superior. 
+- Theory Y is optimistic, dynamic, and flexible, with an emphasis on self-direction and the integration of individual needs with organizational demands. 
+
+Theory X Assumptions
+The “traditional” assumptions about the nature of people, according to McGregor, are included in Theory X as follows :
+1. Average human beings have a inherent dislike of work and will avoid it if they can.
+2. Because of this human characteristic of disliking work, most people must be coerced, controlled, directed, and threatened with punishment to get them to put forth adequate effort toward the achievement of organizational objectives.
+3. Average human beings prefer to be directed, wish to avoid responsibility have relatively little ambition, and want security above all.
+
+Theory Y Assumptions
+McGregor sees the assumptions under Theory Y as follows :
+1. The expenditure of physical and mental effort in work is as natural as play or rest.
+2. External control and the threat of punishment are not the only mean for producing effort toward organizational objectives. People will exercise self-direction and self-control in the service of objectives to which they are committed. 
+3. The degree of commitment to objectives is proportion to the size of the rewards associated with their achievement. 
+4. Average human beings learn, under proper conditions, not only to accept responsibility but also to seek it.
+5. The capacity to exercise a relatively high degree of imagination and creativity in the solution of organizational problems is widely, not narrowly, distributed in the population.
+6. Under the conditions of modern industrial life, the intellectual potentialities of the average human being are only partially utilized.
+
+Theory X
+People are lazy
+People lack ambition 
+Dislike responsibility
+People are self-centered
+People don’t like change
+
+Theory Y
+People are energetic
+People want to make contributions
+People do have ambition
+People will seek responsibility
+
+------------------------------------
+
+Maslow’s Hierarchy of Needs Theory
+- When one set of needs is satisfied, this kind of need ceases to be a motivator.
+
+The Needs Hierarchy
+The basic human needs placed by Maslow in an ascending order of importance and shown in figure 1 are :
+- Physiological needs (85% satisfied).
+- Security, or safety, needs (70% satisfied).
+- Affiliation, or acceptance, needs (50% satisfied).
+- Esteem needs (40% satisfied).
+- Need for self-actualization (85% satisfied).
+
+figure in ppt DIRECTING or LEADING-2
+
+Self-Actualization Needs
+- represent the need for self-fulfillment
+Esteem Needs
+- desire for a positive self-image and to receive attention
+Belongingness  Needs
+- desire to be accepted by one’s peers
+Safety Needs
+- safe and secure physical and emotional environment
+Physiological Needs
+- most basic human physical needs
+
+
+=================================
+
+LEADERSHIP
+Leadership is a process by which individuals are influenced so that they will be prepared to participate in the achievement of organisational or group goals. 
+
+
+=================================
+
+IMPORTANCE OF TRAINING
+1. Training can increase productivity and efficiency.
+2. It can also provide greater consistency and make it easier to meet organizational goals and project outcomes.
+3. enhance employee performance
+4. reduce employee turnover
+5. improve company culture
+
+TRAINING METHODS (pg 246-247)
+1. On-the-job Training
+2. Simulators and Training Aids
+3. Programmed Instruction
+
+=================================

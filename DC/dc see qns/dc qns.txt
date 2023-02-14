@@ -1,0 +1,27 @@
+unit-2
+1. Compare & Contrast between Synchronous & Asynchronous communication in the context of IPC.
+2. Discuss issues relating to datagram communication.
+3. Explain Characteristics and issues related to stream communication.
+4. Explain communication between distributed objects by means of RMI.
+5. Explain remote and local invocation with the neat diagrams.
+6. With a neat diagram explain the role of Proxy & Skeleton in RMI
+7. Explain the fundamental concepts of the distributed object model.
+8. Discuss RMI invocation semantics and tabulate failure handling mechanism for each.
+9. Define RPC and with neat diagram explain its implementation
+10. Explain HTTP request and reply message format.
+
+======================================
+
+unit-3
+1. Discuss model architecture of distributed file system and its components.
+2. List out file system modules.
+3. Sketch the file attributes and record structure.
+4. List out the transparencies in file system.
+5. List the directory service operation.
+6. Describe the characteristics of file system
+
+7. Discuss asymmetric (public/private key pair-based) cryptography technique and how it can be used in supporting security in distributed systems.
+8. What is a distributed denial-of-service attack and how does it work?
+9. What is the goal of security? List the three broad classes of security threats?
+
+======================================
